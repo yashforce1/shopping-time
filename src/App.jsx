@@ -23,11 +23,13 @@ const App = () => {
 
 
 
-
-
-
-
   
+
+
+
+
+
+
   
   const [selectedCurrency, setSelectedCurrency] = useState('$');
   const [allProducts, setAllProducts] = useState([]);
